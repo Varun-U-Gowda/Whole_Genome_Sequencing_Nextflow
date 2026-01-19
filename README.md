@@ -1,11 +1,9 @@
 ---
-
 # Whole Genome Sequencing Analysis Pipelines (Nextflow)
 
 _Modular short-read and long-read genome assembly, annotation, and taxonomic profiling_
 
 ---
-
 ## Project Overview
 
 This repository contains a collection of **reproducible Whole Genome Sequencing (WGS) workflows** implemented using **Nextflow DSL2**. The pipelines support:
@@ -238,5 +236,9 @@ This project is informed by:
 
 **Varun Gowda**
 Bioinformatics | Genomics | Workflow Development
+<<<<<<< HEAD
 
 ---
+=======
+---
+>>>>>>> 09d86e2 (Finalize WGS Nextflow pipelines and repository structure)
