@@ -1,0 +1,38 @@
+# Nextflow
+.nextflow/
+work/
+trace.txt
+timeline.html
+report.html
+dag.html
+
+# Results / outputs
+Results/
+results/
+output/
+outputs/
+
+# Conda / environments
+.env
+*.conda
+*.env
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Large data (placeholders only in repo)
+data/**/*.fastq
+data/**/*.fastq.gz
+data/**/*.fq
+data/**/*.fq.gz
