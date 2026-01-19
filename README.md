@@ -2,7 +2,7 @@
 
 # Whole Genome Sequencing Analysis Pipelines (Nextflow)
 
-**Modular short-read and long-read genome assembly, annotation, and taxonomic profiling**
+_Modular short-read and long-read genome assembly, annotation, and taxonomic profiling_
 
 ---
 
